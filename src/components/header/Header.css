@@ -1,0 +1,116 @@
+header {
+    height: 90vh;
+    background-image: url("../../assets/jawan3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.header_content {
+    margin-left: 5vw;
+    padding-top: 4vw;
+}
+
+header img {
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+}
+
+.header_billboard {
+    width: 24vw;
+    object-fit: cover;
+    z-index: 2;
+    position: relative;
+}
+
+.header_desc {
+    width: 25%;
+    height: 10vh;
+    color: white;
+    font-size: 1.1vw;
+    font-weight: 500;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 1vw;
+    margin-top: 20px;
+    z-index: 2;
+    position: relative;
+    text-align: justify;
+}
+
+.header_buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 3vw;
+    z-index: 2;
+    position: relative;
+}
+
+.header_button {
+    border-radius: 15vw;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+    padding: 0.7rem;
+    padding-left: 2rem;
+    padding-right: 2.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    cursor: pointer;
+}
+
+.header_button svg {
+    margin-right: 0.4rem;
+}
+
+.play_button {
+    background-color: #ff0000;
+    color:white;
+    margin-right: 1rem;
+}
+
+.play_button:hover {
+    background-color:black;
+    color:red;
+}
+
+.more_info_button {
+    background-color:white;
+    color:black;
+}
+
+.more_info_button:hover {
+    background-color: black;
+    color: red;
+}
+
+
+/* =========== */
+
+.imgdunki {
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+
+.dunki {
+    color: rgb(234, 234, 30);
+}
+
+.ok {
+    color: #fff;
+    width: 22vw;
+    margin-top: 290px;
+    margin-bottom: 20px;
+}
+
+
+.play {
+    width: 30px;
+    height: 30px;
+}

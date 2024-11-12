@@ -1,0 +1,22 @@
+.row_wrapper {
+    color: #fff;
+    margin-bottom: 10px;
+    z-index: 3;
+    
+}
+
+
+
+.row_card2 {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    height: 430px;
+    color: #fff;
+    overflow-x: scroll;
+    padding-bottom: -20px;
+}
+
+.row_card2::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,24 @@
+ .card_poster2 {
+     height:400px;
+     width: 280px;
+     transition: width 0.1s, height 0.1s;
+     /* padding-right: 20px; */
+     border-radius: 10px;
+     margin-left: 10px;
+     margin-inline: 8px;
+ }
+
+ .card_poster2:hover {
+     height: 415px;
+     width: 295px;
+ }
+
+ .tiger {
+     width: 450px;
+     height: 250px;
+ }
+
+ .card_poster1 {
+     height: 40px;
+     width: 40px;
+ }

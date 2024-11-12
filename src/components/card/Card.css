@@ -1,0 +1,22 @@
+ .card_poster {
+     height: 225px;
+     width: 400px;
+     transition: width 0.1s, height 0.1s;
+     margin-right: 5px;
+     border-radius: 5px;
+ }
+
+ .card_poster:hover {
+     height: 235px;
+     width: 410px;
+ }
+
+ .tiger {
+     width: 450px;
+     height: 250px;
+ }
+
+ .card_poster1 {
+     height: 40px;
+     width: 40px;
+ }

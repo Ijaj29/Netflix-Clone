@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ef46afb.css",
-    "main.js": "/static/js/main.a9538bb1.js",
-    "static/media/bigg boss.mp4": "/static/media/bigg boss.073be544e8c1af4dc592.mp4",
-    "static/media/jawan.mp4": "/static/media/jawan.7fe92e5f79fe3973c3ba.mp4",
-    "static/media/jawanmix.mp4": "/static/media/jawanmix.ef42001683052a8c139d.mp4",
-    "static/media/jawan3.jpg": "/static/media/jawan3.c50d7d2e44e76335b115.jpg",
-    "static/media/bigg boss h2.avif": "/static/media/bigg boss h2.9f6e41c105ceaff0d04b.avif",
-    "index.html": "/index.html",
-    "main.4ef46afb.css.map": "/static/css/main.4ef46afb.css.map",
-    "main.a9538bb1.js.map": "/static/js/main.a9538bb1.js.map"
+    "main.css": "/Netflix-Clone/static/css/main.da037aa3.css",
+    "main.js": "/Netflix-Clone/static/js/main.a71b60a9.js",
+    "static/media/bigg boss.mp4": "/Netflix-Clone/static/media/bigg boss.073be544e8c1af4dc592.mp4",
+    "static/media/jawan.mp4": "/Netflix-Clone/static/media/jawan.7fe92e5f79fe3973c3ba.mp4",
+    "static/media/jawanmix.mp4": "/Netflix-Clone/static/media/jawanmix.ef42001683052a8c139d.mp4",
+    "static/media/jawan3.jpg": "/Netflix-Clone/static/media/jawan3.c50d7d2e44e76335b115.jpg",
+    "static/media/bigg boss h2.avif": "/Netflix-Clone/static/media/bigg boss h2.9f6e41c105ceaff0d04b.avif",
+    "index.html": "/Netflix-Clone/index.html",
+    "main.da037aa3.css.map": "/Netflix-Clone/static/css/main.da037aa3.css.map",
+    "main.a71b60a9.js.map": "/Netflix-Clone/static/js/main.a71b60a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ef46afb.css",
-    "static/js/main.a9538bb1.js"
+    "static/css/main.da037aa3.css",
+    "static/js/main.a71b60a9.js"
   ]
 }
